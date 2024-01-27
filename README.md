@@ -1,8 +1,6 @@
 # Credit-Score-Assessment
 A machine learning project utilizing the decision tree algorithm to predict the credit score of customers. 
 
-# Credit Score Assessment
-
 This project utilizes machine learning techniques to predict the credit score of customers based on various predictors. The decision tree algorithm is employed for the predictive modeling.
 
 ## Dataset
